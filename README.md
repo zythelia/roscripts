@@ -1,2 +1,2 @@
 # roscripts
-Just my script storage :)
+*MOST SCRIPTS AREN'T WRITTEN BY ME*
